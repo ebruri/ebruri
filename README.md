@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebruri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML CSS JS C# .NET React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning JS, C#, HTML, CSS and React, JQuery, Bootstrap
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
 <!---
