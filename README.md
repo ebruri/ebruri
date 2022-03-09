@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ebru Rice</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+- 🔭 I’m currently working on [Best Restaurants](https://github.com/ebruri/BestRest.Solution)
+
+- 🌱 I’m currently learning **C#, ASP.NET, Javascript, React**
+
+- 📫 How to reach me **ebrurice@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ebru-rice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebru-rice" height="30" width="40" /></a>
