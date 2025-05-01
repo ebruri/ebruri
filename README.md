@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebru Rice</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [Best Restaurants](https://github.com/ebruri/BestRest.Solution)
-
-- 🌱 I’m currently learning **C#, ASP.NET, Javascript, React**
-
 - 📫 How to reach me **ebrurice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
